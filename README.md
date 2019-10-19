@@ -1,2 +1,2 @@
-# audeg.github.io
-Personal page for Aude Genevay
+# tristanozuch.github.io
+Personal page for Tristan Ozuch
